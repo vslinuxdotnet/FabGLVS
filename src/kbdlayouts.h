@@ -120,7 +120,7 @@ extern const KeyboardLayout NorwegianLayout;
 /** @brief Japanese keyboard layout */
 extern const KeyboardLayout JapaneseLayout;
 
-/** @brief Japanese keyboard layout */
+/** @brief Portuguese keyboard layout */
 extern const KeyboardLayout PortugueseLayout;
 
 
